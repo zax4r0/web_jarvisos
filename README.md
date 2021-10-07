@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+## MAIN UI IS Made using https://chakra-ui.com/  
+
 First, run the development server:
 
 ```bash
